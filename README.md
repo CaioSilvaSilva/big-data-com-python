@@ -48,7 +48,7 @@ O Box Plot (também chamado de box e whisker plot) é um método alternativo ao 
 
 Também conhecido como diagrama de dispersão de frequências, um histograma consiste em uma representação gráfica de dados que são divididos
 em classes. Assim, esta representação gráfica é feita com o objetivo de conferir como um processo se comporta em relação a suas especificidades.
-No trabalho, percebi-se que eh criado um histograma para cada composto analisado no DataFrame.
+No trabalho, percebe-se que é criado um histograma para cada composto analisado no DataFrame.
 
 ### `df.hist() plt.show()`
 
