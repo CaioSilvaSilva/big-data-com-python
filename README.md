@@ -25,30 +25,34 @@ Para retornar a quantidade de linhas e colunas do DataFrame utilizado:
 
 ### `print(df.shape)`
 
-* Resumo estatístico
+* Resumo estatístico:
 
 Para retornar a descrição do DataFrame como uma tabela pode se usar o comando:
 
 ### `print(df.describe())`
 
-* Distribuição de classe
+* Distribuição de classe:
 
 Para se realizar a análise geral dos dados, antes se deve realizar um agurpamento geral da base para buscar possíveis indicadores, na execução 
 do documento foi utilizado o agrupamento por classe.
 
 ### `print(df.groupby('class').size())`
 
-* Gráfico de box and whisker
+* Gráfico de box and whisker:
 
 O Box Plot (também chamado de box e whisker plot) é um método alternativo ao histograma e ao ramo-e-folha para representar os dados. O Box Plot fornece informação sobre as seguintes características do conjunto de dados: localização, dispersão, assimetria, comprimento da cauda e outliers (medidas discrepantes).
 
 ### `df.plot(kind='box', subplots=True, layout=(7,2), sharex=False, sharey=False) plt.show()`
 
-* Histograma
+* Histograma:
+
+Também conhecido como diagrama de dispersão de frequências, um histograma consiste em uma representação gráfica de dados que são divididos
+em classes. Assim, esta representação gráfica é feita com o objetivo de conferir como um processo se comporta em relação a suas especificidades.
+No trabalho, percebi-se que eh criado um histograma para cada composto analisado no DataFrame.
 
 ### `df.hist() plt.show()`
 
-* Gráfico de dispersão
+* Gráfico de dispersão:
 
 ### `scatter_matrix(df,figsize=(12,12)) plt.show()`
 
