@@ -69,7 +69,7 @@ Os dados gerados por esse algoritmos foram:
     SVM: 0.874286 (0.073900)
  ```
 
-Utilizando o algoritmos de comparação, observa-se que o KNN está com a média próxima do 0,80
+Utilizando o algoritmos de comparação, observa-se que o KNN está com a mediana próxima do 0,80
 
 A precisão do modelo no conjunto de validação obteve os seguintes resultados, a acurácia está em 78%. A proporção de positivos 
 que foram identificados como corretos pode se ver na coluna de recall com os valores 1.00, 0.76, 0.67 respectivamente. E o balanço 
