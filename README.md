@@ -63,12 +63,12 @@ Regressão (CART), Gaussian Naive Bayes (NB) e Support Vector Machines (SVM).
 Os dados gerados por esse algoritmos foram:
 
  ```
-    LR: 0.921429 (0.108091)
-    LDA: 0.964762 (0.047581)
-    KNN: 0.802381 (0.063003)
-    CART: 0.916190 (0.082071)
-    NB: 0.936190 (0.108069)
-    SVM: 0.874286 (0.073900)
+  LR: 0.921429 (0.108091)
+  LDA: 0.964762 (0.047581)
+  KNN: 0.802381 (0.063003)
+  CART: 0.916190 (0.082071)
+  NB: 0.936190 (0.108069)
+  SVM: 0.874286 (0.073900)
  ```
 
 Utilizando o algoritmos de comparação, observa-se que o KNN está com a mediana próxima do 0,80
