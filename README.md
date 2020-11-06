@@ -14,6 +14,9 @@ de três cultivos diferentes. A análise determinou as quantidades de treze comp
 Os compostos encontrados foram esses: Álcool, Ácido málico, Cinza, Alcalinidade das cinzas, Magnésio, Fenóis totais, Flavanóides, 
 Fenóis não flavonóides, Proantocianinas, Intensidade de cor, Matiz, OD280 / OD315 de vinhos diluídos, Prolina.
 
+O documento wine.csv que foi utilizado para o trabalho de conclusão do módulo está localizado na pasta files do repositório e o arquivo 
+com o arquivo jupiter está localizado na pasta notebooks com o nome de Trabalho_Jaq.ipynb.
+
 ## Análise e Comandos dos Gráficos Gerados
 
 * Dimensão do DataFrame:
