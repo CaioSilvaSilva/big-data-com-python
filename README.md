@@ -50,10 +50,6 @@ O Box Plot (também chamado de box e whisker plot) é um método alternativo ao 
 
 * Gráfico de dispersão
 
-### `df.hist() plt.show()`
-
-* Gráfico de dispersão
-
 ### `scatter_matrix(df,figsize=(12,12)) plt.show()`
 
 Após a criação de conjunto de validação e a geração de métricas, é utilizado o uso de alguns algoritmos para a busca de alguns dados como:
