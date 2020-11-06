@@ -40,6 +40,8 @@ do documento foi utilizado o agrupamento por classe.
 
 * Gráfico de box and whisker
 
+O Box Plot (também chamado de box e whisker plot) é um método alternativo ao histograma e ao ramo-e-folha para representar os dados. O Box Plot fornece informação sobre as seguintes características do conjunto de dados: localização, dispersão, assimetria, comprimento da cauda e outliers (medidas discrepantes).
+
 ### `df.plot(kind='box', subplots=True, layout=(7,2), sharex=False, sharey=False) plt.show()`
 
 * Histograma
